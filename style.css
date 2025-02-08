@@ -74,35 +74,35 @@ body {
 
 /* Different images */
 .i1 {
-  background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/903593470835449886/IMG_4441.jpg);
+  background-image: url("images/i1.jpg");
 }
 
 .i2 {
-  background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/903593980443365416/IMG_4444.jpg);
+  background-image: url("images/i2.jpg");
 }
 
 .i3 {
-  background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/903594131132153867/IMG_4445.jpg);
+  background-image: url("images/i3.jpg");
 }
 
 .i4 {
-  background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/903594342885785640/unknown.png);
+  background-image: url("images/i4.jpg");
 }
 
 .i5 {
-  background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/903595828713779200/images.png);
+  background-image: url("images/i5.jpg");
 }
 
 .i6 {
-  background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/903596022125703208/images.png);
+  background-image: url("images/i6.jpg");
 }
 
 .i7 {
-  background-image: url(https://cdn.discordapp.com/attachments/901041345815252992/903596206121431050/Z.png);
+  background-image: url("images/i7.jpg");
 }
 
 .i8 {
-  background-image: url(https://media.snl.no/media/168356/standard_compressed_shutterstock_1691405560.jpg);
+  background-image: url("images/i8.jpg");
 }
 
 /* Maintain square and use full size of window */
